@@ -1,0 +1,10 @@
+.contentBox{
+    border: solid deepskyblue;
+    margin: 5px;
+    border-radius:5px;
+}
+.titleBox{
+    border-bottom: solid deepskyblue;
+    margin: 5px;
+    padding: 10px;
+}
