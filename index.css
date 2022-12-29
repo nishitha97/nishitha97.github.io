@@ -1,10 +1,25 @@
-.contentBox{
-    border: solid deepskyblue;
-    margin: 5px;
-    border-radius:5px;
-}
 .titleBox{
     border-bottom: solid deepskyblue;
-    margin: 5px;
+    padding: 5px;
+}
+
+.img-container {
+    text-align: center;
+}
+
+.fa {
     padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
 }
