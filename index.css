@@ -1,5 +1,5 @@
 .titleBox{
-    border-bottom: solid deepskyblue;
+    border-bottom: solid #002D62;
     padding: 5px;
     text-align: center;
     font-weight: bold;
@@ -42,18 +42,20 @@
  }
 
 .header {
+  border-radius: 10px;
   padding: 5px;
   text-align: center;
-  background: deepskyblue;
-  color: black;
-  font-size: 10px;
+  background: #002D62;
+  color: white;
+  font-size: 20px;
 }
 
 .footer {
+  border-radius: 10px;
   padding: 10px;
   text-align: center;
-  background: deepskyblue;
-  color: black;
+  background: #002D62;
+  color: white;
   font-size: 10px;
 }
 
