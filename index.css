@@ -2,6 +2,7 @@
     border-bottom: solid deepskyblue;
     padding: 5px;
     text-align: center;
+    font-weight: bold;
 }
 
 .img-container {
@@ -28,5 +29,14 @@
 }
 
 .tech-stack-table {
-   width:500px
+   width:800px;
+   height:500px;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
 }
+
+.right-align-container {
+ text-align: right;
+ }
+
