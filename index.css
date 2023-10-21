@@ -7,6 +7,7 @@
 
 .img-container {
     text-align: center;
+    padding-top:20px;
 }
 
 .fab {
@@ -39,4 +40,20 @@
 .right-align-container {
  text-align: right;
  }
+
+.header {
+  padding: 5px;
+  text-align: center;
+  background: deepskyblue;
+  color: black;
+  font-size: 10px;
+}
+
+.footer {
+  padding: 10px;
+  text-align: center;
+  background: deepskyblue;
+  color: black;
+  font-size: 10px;
+}
 
