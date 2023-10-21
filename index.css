@@ -1,6 +1,7 @@
 .titleBox{
     border-bottom: solid deepskyblue;
     padding: 5px;
+    text-align: center;
 }
 
 .img-container {
@@ -24,4 +25,8 @@
 .fa-medium {
     background: white;
     color: black;
+}
+
+.tech-stack-table {
+   width:500px
 }
