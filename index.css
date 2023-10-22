@@ -41,7 +41,8 @@
  }
 
 .header {
-  border-radius: 15px;
+   border-bottom-right-radius: 15px;
+   border-bottom-left-radius: 15px;
   padding: 0px;
   text-align: center;
   background: #002D62;
@@ -50,7 +51,8 @@
 }
 
 .footer {
-  border-radius: 15px;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
   padding: 5px;
   text-align: center;
   background: #002D62;
